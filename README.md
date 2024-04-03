@@ -11,6 +11,7 @@
 
 - <b>Placeholders Website</b>
   - [Designed personal, Star Wars eras, Galactic Randomizer, as well as personal opinions pages](https://github.com/trruiz03/placeholders.github.io)
+  -  [A collection of Personal UI design projects created in Adobe XD. Creating a desktop app design for Spotify, a mobile design for MusicBoxd, as well as a prototype for an app called Teacher's Pet](https://github.com/trruiz03/UIDesigns_2024) 
  
 <h2>Accesability Projects</h2>
 
