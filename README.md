@@ -1,4 +1,4 @@
-<h1>Hi, I'm Thomas! <br/><a href="https://github.com/trruiz03/DemoLevel">Programmer</a>, <a href="https://github.com/trruiz03/placeholders.github.io">Designer</a>, <a href="https://github.com/trruiz03/Unity-Cow-Game">Accesability designer</a></h1>
+<h1>Hi, I'm Thomas! <br/><a href="https://github.com/trruiz03/DemoLevel">Programmer</a>, <a href="https://github.com/trruiz03/UIDesigns_2024">Designer</a>, <a href="https://github.com/trruiz03/Unity-Cow-Game">Accesability designer</a></h1>
 
 <h2>👨‍💻 Programming Projects:</h2>
 
