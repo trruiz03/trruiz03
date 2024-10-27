@@ -18,6 +18,8 @@
 
 - <b>Unity Cow Game</b>
   - [Created special Arduino controller for those with limited hand mobility](https://github.com/trruiz03/Unity-Cow-Game)
+- <b>Printer PARtner</b>
+  - [Using AR on IOS devices, created an experience to visualize how to use campus printers](https://github.com/trruiz03/PrinterPARtner)
 
 <h2> 🤳 Connect with me:</h2>
 
